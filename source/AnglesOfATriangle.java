@@ -9,6 +9,7 @@ package testingproject;
  *
  * @author LY053428
  * Write a Java Program to find Angles of a Triangle
+ * Adding another comment
  */
 public class AnglesOfATriangle {
     public static void main (String[] args) throws java.io.IOException {
